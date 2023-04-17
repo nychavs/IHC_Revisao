@@ -1,7 +1,12 @@
 # Interação Humano Computador (ihc)
 
-## o que é ihc
-- conceito
+## O que é IHC?
+Quando o conceito de interface surgiu, ela era geralmente entendinda como o hardware e o software com o qual homem e computador podiam se comunicar, mas apenas isso sem muito aprofundamento. 
+
+Com o tempo, várias evoluções ocorreram até que o conceito passou a incluir os aspectos cognitivos e emocionais do usuário durante o uso da aplicação, tendo como fundamento principal a facilidade de uso de x ferramenta.
+
+No entanto, é comum que se pense que o conceito de interface é cabível apenas para "telas" de sistemas, quando na verdade é tudo aquilo que temos contato (por exemplo, maçanetas). 
+> uma interface é uma superficie de contato que reflete as propriedades físicas das partes que interagem, as funções a serem executadas e o balanço entre poder e controle (Laurel, 1993).
 ## aceitabilidade de sistemas e usabilidade
 ### conceito de usabilidade
 existem dois tipos de conceitos de usabilidade, segundo Nielsen:
