@@ -88,14 +88,14 @@ dimensões de analise de experiencia de usuário -> uso do sistema, uso de compu
 
 
 ### principios e slogan
-- Sua melhor tentativa não é boa o suficiente ->
-- Usuário está sempre certo ->
-- Usuário não está sempre certo ->
-- Usuário não são designers ->
-- Designers não são usuários ->
-- Menos é mais ->
-- Help não ajuda ->
-- 
+- Sua melhor tentativa não é boa o suficiente -> o design é sempre melhor se seguir o entendimento do usuário, para evitar fazer do modo que nós imaginamos. 
+- Usuário está sempre certo -> designer deve aceitar a necessidade de modificar uma grande ideia de forma a resolver problemas dos usuários
+- Usuário não está sempre certo -> nao se deve usar o extremo de construir uma interface apenas pensando em tudo que o usuário quer, pois eles frequentemente não sabem o que é bom pra eles
+- Usuário não são designers -> não prover interfaces flexíveis que podem ser amplamentes customizadas, pois usuários novatos não utilizam essa funcionalidade e ao utilizar pode ser que dificulte ao invés de melhorar o design principalmente se o design for muito diferente das outras pessoas, o que dificulta na hora de ajudar (exemplo: o sap)
+- Designers não são usuários -> a experiência de designers e usuários são diferentes 
+- Menos é mais -> colocar todas as opções disponiveis não é uma boa prática 
+- Help não ajuda -> help nao pode ser desculpa para um design ruim onde os usuários ficam perdidos tentando encontrar alguma informação
+
 ### interface x interação
 
 ## design centrado no usuário
