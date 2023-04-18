@@ -28,6 +28,9 @@ Outro exemplo, também relacionado às funcionalidades, é o caso do usuário sa
 - interface e interação são conceitos que não podem ser estabelecidos ou analisados independentemente
 
 ## Aceitabilidade de sistemas e usabilidade
+
+
+
 ### conceito de usabilidade
 existem dois tipos de conceitos de usabilidade, o 1°, segundo Nielsen:
 > - facilidade de aprendizagem
@@ -42,6 +45,26 @@ O 2°, segundo a norma ISO 9241-11:
 > - eficiência: quantidade de recursos necessários
 > - satisfação: nivel de conforto e sua aceitação
 
+
+Usabilidade
+> quão bem os usuários podem usar a funcionalidade definida
+
+Utilidade
+> a funcionalidade do sistema faz o que deve ser feito
+
+Usefulness 
+> sistema poder ser usado para atingir um objetivo, ou seja, combinação de utilidade e usabilidade
+
+Aceitabilidade Prática
+> parametros de custo, confiabilidade, compatibilidade com sistemas existentes, usefulness
+
+Aceitabilidade social
+> percepção sobre o sistema, intenção de aceitar, intenção de usar, confiança e participação, ou seja, o usuário acreditar que o sistema pode melhorar algo.
+
+Aceitabilidade de um sistema
+> combinação da aceitabilidade social e prática
+
+                    
 ### aprofundando a usabilidade
 Facilidade de aprendizagem / learnability
 > fácil de aprender de forma que o usuário possa rapidamente começar a interagir. Avaliado em função do tempo que o usuário demora para atingir um grau de proficiencia.
@@ -62,6 +85,7 @@ Satisfação subjetiva
 conhecer os usuários é fundamental para se fazer o design de um sistema usável, entender os modos de classificar um usuário ajuda a fazer um bom design que atenda a maior diversidade de classes.
 
 dimensões de analise de experiencia de usuário -> uso do sistema, uso de computadores em geral, dominio da aplicação (cubo do usuário)
+
 
 ### principios e slogan
 - Sua melhor tentativa não é boa o suficiente ->
