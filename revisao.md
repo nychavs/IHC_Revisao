@@ -113,11 +113,16 @@ entender as capacidades físicas e cognitivas do ser humano e fatores que influe
 ### percepção 
 o usuário deve perceber a informação apresentada na interface atraves dos sinais que as constituem (ex: botao de fechar/sair/cancelar ser vermelho)
 o conceito de percepção é importante porque as informações precisam ser representadas de forma que possam ser entendidas e percebidas sem ambiguidades
+
 Abordagem ecologista
 > A informação é detectada em um processo direto (noção de affordance - o obvio do obvio) sem precisar construir ou elaborar algo
 > affordance é o nome dado quando os objetos carregam certas caracteristicas que dirigem nossa percepção sobre eles
+
+
 Abordagem construtivista
 > A informação é construida a partir de informações obtidas que juntas formam algo, envolvendo então os processos cogntivos. Explora a maneira como reconhecemos objetos e fazemos sentido a ele, ou seja, nossa habilidade de perceber objetos em uma tela é resultado do nosso conhecimento anterior.
 
 ### memória
+a fazer
 ### atenção
+a fazer
