@@ -11,7 +11,7 @@ No entanto, é comum que se pense que o conceito de interface é cabível apenas
 > uma interface é uma superficie de contato que reflete as propriedades físicas das partes que interagem, as funções a serem executadas e o balanço entre poder e controle (Laurel, 1993).
 
 ### Objetivos de IHC
-basicamente produzir sistemas usaveis, seguros e funcionais. Esses objetivos podem ser resumidos em como desenvolvrer ou melhorar a segurança, utilidade, efetividade e usabilidade de sistemas que incluem computadores.
+produzir sistemas usaveis, seguros e funcionais. Esses objetivos podem ser resumidos em como desenvolvrer ou melhorar a segurança, utilidade, efetividade e usabilidade de sistemas que incluem computadores.
 
 ### User friendly
 o termo user friendly é usado para descrever interfaces que contem elementos esteticamente agradaveis/bonitos ao usuário. No entanto, o termo não é muito adequado. 1° o usuário não precisa de uma máquina amiga, apenas de algo que facilite suas tarefas. 2° o termo deixa limitado a apenas um critério (amigavel ou nao), sendo um critério totalmente subjetivo, onde um usuário pode gostar de algo e outro não, como defino que a interface é amigável assim?
@@ -29,8 +29,6 @@ Outro exemplo, também relacionado às funcionalidades, é o caso do usuário sa
 
 ## Aceitabilidade de sistemas e usabilidade
 
-
-
 ### conceito de usabilidade
 existem dois tipos de conceitos de usabilidade, o 1°, segundo Nielsen:
 > - facilidade de aprendizagem
@@ -44,7 +42,6 @@ O 2°, segundo a norma ISO 9241-11:
 > - efetividade: alcance dos objetivos
 > - eficiência: quantidade de recursos necessários
 > - satisfação: nivel de conforto e sua aceitação
-
 
 Usabilidade
 > quão bem os usuários podem usar a funcionalidade definida
@@ -63,9 +60,8 @@ Aceitabilidade social
 
 Aceitabilidade de um sistema
 > combinação da aceitabilidade social e prática
-
-                    
-### aprofundando a usabilidade
+             
+### Aprofundando a usabilidade
 Facilidade de aprendizagem / learnability
 > fácil de aprender de forma que o usuário possa rapidamente começar a interagir. Avaliado em função do tempo que o usuário demora para atingir um grau de proficiencia.
 
@@ -81,32 +77,58 @@ Erros
 Satisfação subjetiva
 > o usuários devem gostar do sistema, ou seja, deve ser agradável de forma que o usuário fique satisfeito. pode ser medida perguntanto ao usuários suas opiniões.
 
-### levar em consideração
+### Levar em consideração
 conhecer os usuários é fundamental para se fazer o design de um sistema usável, entender os modos de classificar um usuário ajuda a fazer um bom design que atenda a maior diversidade de classes.
 
 dimensões de analise de experiencia de usuário -> uso do sistema, uso de computadores em geral, dominio da aplicação (cubo do usuário)
 
 
-### principios e slogan
-- Sua melhor tentativa não é boa o suficiente -> o design é sempre melhor se seguir o entendimento do usuário, para evitar fazer do modo que nós imaginamos. 
-- Usuário está sempre certo -> designer deve aceitar a necessidade de modificar uma grande ideia de forma a resolver problemas dos usuários
-- Usuário não está sempre certo -> nao se deve usar o extremo de construir uma interface apenas pensando em tudo que o usuário quer, pois eles frequentemente não sabem o que é bom pra eles
-- Usuário não são designers -> não prover interfaces flexíveis que podem ser amplamentes customizadas, pois usuários novatos não utilizam essa funcionalidade e ao utilizar pode ser que dificulte ao invés de melhorar o design principalmente se o design for muito diferente das outras pessoas, o que dificulta na hora de ajudar (exemplo: o sap)
-- Designers não são usuários -> a experiência de designers e usuários são diferentes 
-- Menos é mais -> colocar todas as opções disponiveis não é uma boa prática 
-- Help não ajuda -> help nao pode ser desculpa para um design ruim onde os usuários ficam perdidos tentando encontrar alguma informação
+### Principios e Slogans
+Sua melhor tentativa não é boa o suficiente 
+> o design é sempre melhor se seguir o entendimento do usuário, para evitar fazer do modo que nós imaginamos.
 
-### interface x interação
-a fazer
-## design centrado no usuário
-a fazer
+Usuário está sempre certo 
+> designer deve aceitar a necessidade de modificar uma grande ideia de forma a resolver problemas dos usuários
+
+Usuário não está sempre certo 
+> nao se deve usar o extremo de construir uma interface apenas pensando em tudo que o usuário quer, pois eles frequentemente não sabem o que é bom pra eles
+
+Usuário não são designers
+> não prover interfaces flexíveis que podem ser amplamentes customizadas, pois usuários novatos não utilizam essa funcionalidade e ao utilizar pode ser que dificulte ao invés de melhorar o design principalmente se o design for muito diferente das outras pessoas, o que dificulta na hora de ajudar (exemplo: o sap)
+
+Designers não são usuários 
+> a experiência de designers e usuários são diferentes 
+
+Menos é mais
+> colocar todas as opções disponiveis não é uma boa prática 
+
+Help não ajuda
+> help nao pode ser desculpa para um design ruim onde os usuários ficam perdidos tentando encontrar alguma informação
+
+## Design centrado no usuário
+Projetos para os usuários
+
+As tarefas e os objetivos dos usuários são a força motriz dos usuários para o desenvolvimento do produto. O comportamento e as características desses usuários e contexto de uso são estudados para ajudar na projeção do sistema.
+Perguntas que podem ajudar:
+- como a tecnologia pode apoiar tal meta?
+- como as pessoas executam suas tarefas?
+
+Design participativo
+> Design com usuários e não para os usuários. Usuário encorporado como mebro da equipe, participando de todas as atividades durante o processo.
+
 ### concepção de produto
 a fazer
+
 ### personas
-a fazer
+Personas são representações concretas dos tipos de pessoas diferentes para as quais o sistema ou serviço está sendo projetado.
+
 ### cenario
 a fazer
 
+Resumo:
+- Segundo a abordagem centrada no usuário, um design iterativo deve conter ciclos de projetar - testar - medir - reaprojetar
+ISO 9241-219
+> 1 - O projeto é baseado no entendimento explícito de usuários, tarefas e ambientes. 2 - Os usuários estão envolvidos em todo projeto e desenvolvimento. 3 - O projeto é conduzido e refinado por avaliações centradas no usuário. 4 - O processo é iterativo. O projeto aborda toda a experiência do usuário. 5 - A equipe de design inclui competências multidisciplinares e perspectivas.
 
 ## fatores humanos 
 entender as capacidades físicas e cognitivas do ser humano e fatores que influenciam o design de interfaces
