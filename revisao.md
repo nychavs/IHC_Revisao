@@ -127,6 +127,7 @@ a fazer
 
 Resumo:
 - Segundo a abordagem centrada no usuário, um design iterativo deve conter ciclos de projetar - testar - medir - reaprojetar
+
 ISO 9241-219
 > 1 - O projeto é baseado no entendimento explícito de usuários, tarefas e ambientes. 2 - Os usuários estão envolvidos em todo projeto e desenvolvimento. 3 - O projeto é conduzido e refinado por avaliações centradas no usuário. 4 - O processo é iterativo. O projeto aborda toda a experiência do usuário. 5 - A equipe de design inclui competências multidisciplinares e perspectivas.
 
