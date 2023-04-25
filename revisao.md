@@ -110,7 +110,12 @@ a fazer
 
 ## fatores humanos 
 entender as capacidades físicas e cognitivas do ser humano e fatores que influenciam o design de interfaces
-### percepção 
+- é importante a um designer conhecer sobre Fatores Humanos pois a interação com a tecnologia é cognitiva
+- podemos prover conhecimento sobre o que pode, ou não, ser esperado dos usuários;
+- identificar e explicar a natureza e causas dos porblemas encontrados pelos usuários;
+- saber quais métodos podem conduzir projetos de melhor usabilidade.
+
+### Percepção 
 o usuário deve perceber a informação apresentada na interface atraves dos sinais que as constituem (ex: botao de fechar/sair/cancelar ser vermelho)
 o conceito de percepção é importante porque as informações precisam ser representadas de forma que possam ser entendidas e percebidas sem ambiguidades
 
@@ -118,11 +123,34 @@ Abordagem ecologista
 > A informação é detectada em um processo direto (noção de affordance - o obvio do obvio) sem precisar construir ou elaborar algo
 > affordance é o nome dado quando os objetos carregam certas caracteristicas que dirigem nossa percepção sobre eles
 
-
 Abordagem construtivista
 > A informação é construida a partir de informações obtidas que juntas formam algo, envolvendo então os processos cogntivos. Explora a maneira como reconhecemos objetos e fazemos sentido a ele, ou seja, nossa habilidade de perceber objetos em uma tela é resultado do nosso conhecimento anterior.
 
-### memória
-a fazer
-### atenção
-a fazer
+Exteroceptiva
+> permite o contato do individuo com o meio externo por meio dos orgãos dos sentidos (visão e paladar)
+
+Interoceptiva
+> permite o cérebro tomar conhecimeto do que acontece nos órgãos internos (fome)
+
+Proprioceptiva
+> permite ao cérebro tomar conhecimento do movimento corpóreo no espaço e da sua posição em relação aos outros (equilibrio)
+
+
+### Atenção
+Seleção de coisas para se concentrar dentre várias ao nosso redor, em um dado momento, sendo um mecanismo qu permite a fixação de alguns estímulos e organização das informações para tomar uma decisão.
+
+Existem dois tipos de atenção:
+
+Focada
+> Habilidade de concentrar em um determinado evento quando existe uma série de eventos competindo (ex: prestar atenção na fala do professor e descartar a dos alunos)
+
+Dividida
+> Quando se tenta atender a mais de uma demanda ao mesmo tempo (ex: dirigir e conversar com o passageiro)
+
+
+Resumo:
+- Dispositivos computacionais são multitarefas, logo o designer deve prover ajudas cognitivas de modo que o usuário saiba onde recomeçar a tarefa em caso de interrupção.
+
+- Na interface, as informações devem ser estruturadas para capturar a atenção do usuário, ex: sons, vibração, luz piscante, palavras em negrito etc...
+
+- A atenção possui influencia das necessidades, motivações, interesses, personalidade, cultura, objetivo, prazer, medo, entre outras sensações e características.
